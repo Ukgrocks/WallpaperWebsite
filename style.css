@@ -1,0 +1,8 @@
+body {
+    overflow-x: hidden;
+    background-image: linear-gradient(to right, #f79d00, #64f38c);
+    color: #fff; /* Set text color to make it readable */
+}
+img:hover {
+    transform: scale(1.01);
+}
